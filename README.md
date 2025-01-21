@@ -5,11 +5,13 @@ A curated list of notable innovations and breakthroughs in AI, Machine Learning,
 ## Latest Innovations
 
 | Date | Company | Innovation | Description | Category | Links |
-| 2025-01-06 | NVIDIA | RTX 50 Series GPUs | NVIDIA RTX 50 Series: Enhanced AI and Ray Tracing. | AI|[Announcement](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/) |
-| 2025-01-06 | NVIDIA | Project DIGITS |Grace Blackwell AI superchip in a desktop, 1 petaflop, 128GB memory. | AI | [Announcement](https://www.nvidia.com/en-us/project-digits/) |
-| 2025-01-06 | NVIDIA | DLSS 4 | AI-powered neural rendering for enhanced gaming performance and visuals | AI | [Announcement](https://www.nvidia.com/en-us/geforce/technologies/dlss/) |
 |------|----------|------------|-------------|-----------|-------|
-| YYYY-MM-DD | Company Name | Innovation Title | Brief description of the innovation (1-2 lines) | [AI/ML/GenAI/LLM] | [Announcement](link), [Demo](link) |
+| 2025-01-06 | NVIDIA | RTX 50 Series GPUs | NVIDIA RTX 50 Series: Enhanced AI and Ray Tracing. | 🤖 AI | [Announcement](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/) |
+| 2025-01-06 | NVIDIA | Project DIGITS | Grace Blackwell AI superchip in a desktop, 1 petaflop, 128GB memory. | 🤖 AI | [Announcement](https://www.nvidia.com/en-us/project-digits/) |
+| 2025-01-06 | NVIDIA | DLSS 4 | AI-powered neural rendering for enhanced gaming performance and visuals | 🤖 AI | [Announcement](https://www.nvidia.com/en-us/geforce/technologies/dlss/) |
+
+*Template for new entries:*
+| YYYY-MM-DD | Company Name | Innovation Title | Brief description of the innovation (1-2 lines) | [🤖/🧠/⚡/🗣️] | [Announcement](link), [Demo](link) |
 
 ## How to Contribute
 
